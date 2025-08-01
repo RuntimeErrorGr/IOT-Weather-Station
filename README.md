@@ -1,4 +1,5 @@
 # Weather and Environment Monitoring System
+Video presentation: https://www.youtube.com/watch?v=63NHxiXFOv0
 
 ## Overview
 This project implements a system that collects weather and environmental data using various sensors and displays it in a user-friendly widget interface. The application runs on an HTTP server hosted on a NodeMCU ESP8266 microcontroller. Users connect via a local IP address provided by the Arduino serial monitor and view real-time sensor data through a web browser.
